@@ -26,11 +26,13 @@ Examples: Monmouth, Los Angeles
 ### countyfp
 
 Three digit FIPS code for county of collection <https://www.census.gov/geo/reference/codes/cou.html>
+
 Examples: 011, 037
 
 ### year
 
 Four digit year of collection
+
 Examples: 2016, 2017
 
 ### month
