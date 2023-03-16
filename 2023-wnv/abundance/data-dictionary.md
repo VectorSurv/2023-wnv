@@ -54,10 +54,6 @@ Type of trap used for collection, includes:
 - **NJLT**: New Jersey light traps baited with light.
 - **OTHER**: Miscellaneous other trap types targeting adult female mosquitoes that do not fall within the types listed above. This type is included for completeness to accommodate less commonly used trap types. Due to heterogeneity in the types of traps represented by this category, note that “other” trap types may be of less value for predictive modeling.
 
-### **species**
-
-Species of mosquitoes represented within the row. Note that species in some counties are recorded as combinations of the listed species.
-
 ### **num_sites**
 
 Number of distinct trap sites (i.e., geographic locations) represented within the county-month.
@@ -69,6 +65,10 @@ Number of distinct trap collections represented within the county-month. This ma
 ### **num_trap_nights**
 
 Cumulative number of nights distinct traps were run at all sites.
+
+### **species**
+
+Species of mosquitoes represented within the row. Note that species in some counties are recorded as combinations of the listed species.
 
 ### **num_adult_females_collected**
 
